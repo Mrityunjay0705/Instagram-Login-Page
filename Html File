@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram Login Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <body>
+        <h1>Instagram</h1>
+
+  <div class="login-form">
+    <input type="email" placeholder="Phone number, username or email">
+    <br>
+    <input type="password" placeholder="Password">
+    <br>
+    <button>Login</button>
+  </div>
+
+  <div class="login-link">
+    <a href="https://www.facebook.com/" target="_blank">Log in with Facebook</a>
+  </div>
+
+  <div class="signup-link">
+    <p>Don't have an account?<a href="https://www.instagram.com/accounts/emailsignup/" target="_blank">Sign up</a></p>
+  </div>
+      </body>
+</body>
+</html>
